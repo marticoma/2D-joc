@@ -1,6 +1,3 @@
-/*  by Javi Agenjo 2013 UPF  javi.agenjo@gmail.com
-	This contains several functions that can be useful when programming your game.
-*/
 #ifndef UTILS_H
 #define UTILS_H
 
