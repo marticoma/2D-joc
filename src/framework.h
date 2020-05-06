@@ -1,7 +1,3 @@
-/*  by Javi Agenjo 2013 UPF  javi.agenjo@gmail.com
-	Here we define all the mathematical classes like Vector3, Matrix44 and some extra useful geometrical functions
-*/
-
 #ifndef FRAMEWORK //macros to ensure the code is included once
 #define FRAMEWORK
 
