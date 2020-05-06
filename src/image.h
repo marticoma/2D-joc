@@ -1,9 +1,3 @@
-/*** image.h  Javi Agenjo (javi.agenjo@gmail.com) 2013
-	This file defines the class Image that allows to manipulate images.
-	It defines all the need operators for Color and Image.
-	It has a TGA loader and saver.
-***/
-
 #ifndef IMAGE_H
 #define IMAGE_H
 
